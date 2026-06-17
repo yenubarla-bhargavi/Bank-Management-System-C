@@ -74,6 +74,11 @@ To develop a simple banking application that demonstrates core C programming con
 
 ---
 
+## Demo
+
+🎥 Project Demonstration:
+https://youtu.be/JPKfAAfo0ZY?si=aQot508S8GEJdmQH
+
 ## Author
 
 Bhargavi Yenubarla
